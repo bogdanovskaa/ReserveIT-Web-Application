@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\ReserveIT-Web-Application"
+		},
+		{
+			"path": "..\\..\\reserveitapp-final(popravka na server folderot)"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\useraccounts"
+		},
+		{
+			"path": "..\\..\\.vscode"
+		},
+		{
+			"path": "..\\..\\Homework1"
+		},
+		{
+			"path": "..\\..\\Homework2"
+		},
+		{
+			"path": "..\\..\\Homework3"
+		},
+		{
+			"path": "..\\..\\Link_do_Aplikacijata"
+		},
+		{
+			"path": "..\\..\\public"
+		},
+		{
+			"path": "..\\..\\reserveITapp"
+		},
+		{
+			"path": "..\\..\\ReserveITapp1"
+		},
+		{
+			"path": "..\\..\\reserveitapp-final"
+		}
+	],
+	"settings": {}
+}
